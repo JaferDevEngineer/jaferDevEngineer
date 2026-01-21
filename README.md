@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Java Backend Developer with 2+ years of experience building scalable, robust, and maintainable applications. I specialize in:
+I'm a passionate Java Backend Developer with 3+ years of experience building scalable, robust, and maintainable applications. I specialize in:
 
 - **Spring Boot** & **Microservices Architecture**
 - Event-driven systems with **Kafka**
